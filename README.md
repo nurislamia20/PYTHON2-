@@ -1,6 +1,8 @@
 # PYTHON2-
 1.STRING
+
 A. string merupakan susunan dari karakter karakter, nah dibawah ini ada beberapa penjelasan mengenai string dengan tanda yang dipakai dalam string
+
   a. pada no 1-2 terdapat variabel yang menggunakan karakter string yang sperti biasa yaitu menggunakan tanda petik 2 pada awal dan akhir karakter sehingga menampilkan kalimat nur islamia seperti biasa
   
   b. pada no 5-6 terdapat variabel yang sama namun menggunakan karkater untuk mengapit tanda petik 2 dalam karakter tsb dan jika ditambahkan tanda petik yang sama digunakan ditempat yang sama maka akan terjadi error namun disini bisa digunakan tanda petik 1 sebagi syarat dalam string tsb dan petik masukkan 2 jika ingin mrnampilkan tanda petik dua seperti karakter "nur islamia pada tampilan output dibawah ini
